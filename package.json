@@ -1,0 +1,21 @@
+{
+  "name": "homenode-ghoma",
+  "version": "0.0.1",
+  "description": "homenode for ghoma plugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ghoma",
+    "homenode",
+    "home",
+    "automatisation"
+  ],
+  "author": "Frank Klingebiel",
+  "license": "MIT",
+  "dependencies": {
+    "ghoma": "0.0.4",
+    "homenode-node": "0.0.5"
+  }
+}
